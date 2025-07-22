@@ -49,11 +49,14 @@ HeartFailurePrediction/
 
 3. Install dependencies:
     pip install -r requirements.txt
+    or
+    pip install flask scikit-learn pandas numpy joblib
 
-4. Run the Flask App:
+
+5. Run the Flask App:
     python app.py
 
-5. Open your browser and navigate to:
+6. Open your browser and navigate to:
     http://127.0.0.1:5000
 ---
 How to Use
