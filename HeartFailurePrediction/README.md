@@ -85,16 +85,4 @@ This project is licensed under the MIT License.
 
 ---
 
-### **Answer to Your Question:**
-In your README, under the **Model** section, it is enough to write:
-> **"The model is trained using Random Forest/XGBoost on the Heart Failure dataset, achieving 90–95% accuracy on test data."**
-
----
-
-### **Next Step**
-Would you like me to **generate the training code (`HeartFailure_Model.ipynb`)** that will:
-- Load the dataset,
-- Train RandomForest & XGBoost,
-- Save `heart_failure_model.pkl`,
-- And include metrics like accuracy and confusion matrix?
 
